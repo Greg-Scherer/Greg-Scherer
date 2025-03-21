@@ -1,9 +1,9 @@
 👋 Hello, welcome to my profile.
 
   About me;
-- 🔍 My name is Gregori
-- 🏃‍♂️ I Do Animations
-- 🎓 I’m currently learning programmation
+- 🔍 My name is Gregori.
+- 🏃‍♂️ I do 3D animations.
+- 🎓 I’m currently learning programmation.
 - 🧾 I’m looking to collaborate on Roblox Games.
 - 📫 How to reach me; Email - gregori3schererr@gmail.com
 
